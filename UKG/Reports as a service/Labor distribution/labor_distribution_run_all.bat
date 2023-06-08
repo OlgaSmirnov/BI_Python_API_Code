@@ -5,7 +5,7 @@ set root=C:\ProgramData\Anaconda3
 call %root%\Scripts\activate.bat %root%
 
 :: Change directory to the precheck files
-cd C:\BI_WH_Solution\BI_WH_Solution\Zack_Python_Code\UKG\Reports as a service\Labor distribution
+cd C:\BI_WH_Solution\Zack_Python_Code\BI_Python_API_Code\UKG\Reports as a service\Labor distribution
 
 :: Call a labor distribution program
 call python EarningsByCode.py

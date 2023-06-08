@@ -562,7 +562,7 @@ def create_sql_table_v2(table_name):
         r"""    
         -- import the file
         BULK INSERT """ + table_name + " " + 
-        r"""FROM 'C:\BI_WH_Solution\BI_WH_Solution\Zack_Python_Code\UKG\Reports as a service\Labor distribution\ukg_bulk_insert.csv'
+        r"""FROM 'C:\BI_WH_Solution\Zack_Python_Code\BI_Python_API_Code\UKG\Reports as a service\Labor distribution\ukg_bulk_insert.csv'
         WITH (
         FIELDTERMINATOR = ',',
         ROWTERMINATOR = '\n',
