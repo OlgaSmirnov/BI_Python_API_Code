@@ -1,0 +1,61 @@
+period_control_date,employee_number,stub_description,tax_code,tax_description,tax_group_code,tax_type,employer_tax,current_taxable_gross,current_tax_amount
+2023-05-26 00:00:00,001005711,Employee Medicare,USMEDEE,Employee Medicare,TG,MED,N,2500,36.25
+2023-05-26 00:00:00,001005711,Employer Medicare,USMEDER,Employer Medicare,TG,MED,Y,2500,36.25
+2023-05-26 00:00:00,001005711,Federal Income Tax,USFIT,Federal Income Tax,TG,FIT,N,2500,550
+2023-05-26 00:00:00,001005711,Federal Unemployment Tax,USFUTA,Federal Unemployment Tax,TG,FUT,Y,2500,0
+2023-05-26 00:00:00,001005711,Social Security Employee Tax,USSOCEE,Social Security Employee Tax,TG,SOC,N,2500,155
+2023-05-26 00:00:00,001005711,Social Security Employer Tax,USSOCER,Social Security Employer Tax,TG,SOC,Y,2500,155
+2023-05-26 00:00:00,001005711,WA Labor & Ind EE Withholding,WALIEE,WA Labor & Ind EE Withholding,TG,LIT,N,2500,0
+2023-05-26 00:00:00,001005711,WA Labor & Ind ER Expense,WALIER,WA Labor & Ind ER Expense,TG,LIT,Y,2500,0
+2023-05-26 00:00:00,001005711,WA Paid Family Leave- EE,WAPFLEE,WA Paid Family Leave- EE,TG,SDI,N,2500,10.1
+2023-05-26 00:00:00,001005711,WA Paid Family Leave- ER pd EE,WAPFLEP,WA Paid Family Leave- ER pd EE,TG,SDI,Y,2500,0
+2023-05-26 00:00:00,001005711,WA Paid Medical Leave- EE,WAPMLEE,WA Paid Medical Leave- EE,TG,SDI,N,2500,4.46
+2023-05-26 00:00:00,001005711,WA Paid Medical Leave- ER,WAPMLER,WA Paid Medical Leave- ER,TG,SDI,Y,2500,5.44
+2023-05-26 00:00:00,001005711,WA State Income Tax,WASIT,WA State Income Tax,TG,SIT,N,2500,0
+2023-05-26 00:00:00,001005711,WA Unemployment Employer,WASUIER,WA Unemployment Employer,TG,SUI,Y,2500,22.5
+2023-05-26 00:00:00,001005711,WA Vol Paid Fam Leave- EE,WAVPFLEE,WA Vol Paid Fam Leave- EE,TG,SDI,N,0,0
+2023-05-26 00:00:00,001005711,WA Vol Paid Fam Leave-ER pd EE,WAVPFLEP,WA Vol Paid Fam Leave-ER pd EE,TG,SDI,Y,0,0
+2023-05-26 00:00:00,001005711,WA Vol Paid Med Leave- EE,WAVPMLEE,WA Vol Paid Med Leave- EE,TG,SDI,N,0,0
+2023-05-26 00:00:00,001005711,WA Vol Paid Med Leave- ER,WAVPMLER,WA Vol Paid Med Leave- ER,TG,SDI,Y,0,0
+2023-05-26 00:00:00,001005711,WA Workforce Training Employer,WAWTFER,WA Workforce Training Employer,TG,SUI,Y,2500,0.75
+2023-05-26 00:00:00,001005711,Washington Cares Fund,WACRFEE,Washington Cares Fund,TG,SDI,N,0,0
+2023-05-26 00:00:00,001006110,Employee Medicare,USMEDEE,Employee Medicare,TG,MED,N,718.75,10.43
+2023-05-26 00:00:00,001006110,Employer Medicare,USMEDER,Employer Medicare,TG,MED,Y,718.75,10.43
+2023-05-26 00:00:00,001006110,Federal Income Tax,USFIT,Federal Income Tax,TG,FIT,N,718.75,0
+2023-05-26 00:00:00,001006110,Federal Unemployment Tax,USFUTA,Federal Unemployment Tax,TG,FUT,Y,718.75,0
+2023-05-26 00:00:00,001006110,Social Security Employee Tax,USSOCEE,Social Security Employee Tax,TG,SOC,N,718.75,44.56
+2023-05-26 00:00:00,001006110,Social Security Employer Tax,USSOCER,Social Security Employer Tax,TG,SOC,Y,718.75,44.56
+2023-05-26 00:00:00,001006110,WA Labor & Ind EE Withholding,WALIEE,WA Labor & Ind EE Withholding,TG,LIT,N,718.75,0
+2023-05-26 00:00:00,001006110,WA Labor & Ind ER Expense,WALIER,WA Labor & Ind ER Expense,TG,LIT,Y,718.75,0
+2023-05-26 00:00:00,001006110,WA Paid Family Leave- EE,WAPFLEE,WA Paid Family Leave- EE,TG,SDI,N,718.75,2.9
+2023-05-26 00:00:00,001006110,WA Paid Family Leave- ER pd EE,WAPFLEP,WA Paid Family Leave- ER pd EE,TG,SDI,Y,718.75,0
+2023-05-26 00:00:00,001006110,WA Paid Medical Leave- EE,WAPMLEE,WA Paid Medical Leave- EE,TG,SDI,N,718.75,1.28
+2023-05-26 00:00:00,001006110,WA Paid Medical Leave- ER,WAPMLER,WA Paid Medical Leave- ER,TG,SDI,Y,718.75,1.57
+2023-05-26 00:00:00,001006110,WA State Income Tax,WASIT,WA State Income Tax,TG,SIT,N,718.75,0
+2023-05-26 00:00:00,001006110,WA Unemployment Employer,WASUIER,WA Unemployment Employer,TG,SUI,Y,718.75,6.47
+2023-05-26 00:00:00,001006110,WA Vol Paid Fam Leave- EE,WAVPFLEE,WA Vol Paid Fam Leave- EE,TG,SDI,N,0,0
+2023-05-26 00:00:00,001006110,WA Vol Paid Fam Leave-ER pd EE,WAVPFLEP,WA Vol Paid Fam Leave-ER pd EE,TG,SDI,Y,0,0
+2023-05-26 00:00:00,001006110,WA Vol Paid Med Leave- EE,WAVPMLEE,WA Vol Paid Med Leave- EE,TG,SDI,N,0,0
+2023-05-26 00:00:00,001006110,WA Vol Paid Med Leave- ER,WAVPMLER,WA Vol Paid Med Leave- ER,TG,SDI,Y,0,0
+2023-05-26 00:00:00,001006110,WA Workforce Training Employer,WAWTFER,WA Workforce Training Employer,TG,SUI,Y,718.75,0.22
+2023-05-26 00:00:00,001006110,Washington Cares Fund,WACRFEE,Washington Cares Fund,TG,SDI,N,0,0
+2023-05-26 00:00:00,001008855,Employee Medicare,USMEDEE,Employee Medicare,TG,MED,N,1305.64,18.93
+2023-05-26 00:00:00,001008855,Employer Medicare,USMEDER,Employer Medicare,TG,MED,Y,1305.64,18.93
+2023-05-26 00:00:00,001008855,Federal Income Tax,USFIT,Federal Income Tax,TG,FIT,N,1305.64,84.29
+2023-05-26 00:00:00,001008855,Federal Unemployment Tax,USFUTA,Federal Unemployment Tax,TG,FUT,Y,1305.64,7.83
+2023-05-26 00:00:00,001008855,Social Security Employee Tax,USSOCEE,Social Security Employee Tax,TG,SOC,N,1305.64,80.95
+2023-05-26 00:00:00,001008855,Social Security Employer Tax,USSOCER,Social Security Employer Tax,TG,SOC,Y,1305.64,80.95
+2023-05-26 00:00:00,001008855,WA Labor & Ind EE Withholding,WALIEE,WA Labor & Ind EE Withholding,TG,LIT,N,1305.64,0
+2023-05-26 00:00:00,001008855,WA Labor & Ind ER Expense,WALIER,WA Labor & Ind ER Expense,TG,LIT,Y,1305.64,0
+2023-05-26 00:00:00,001008855,WA Paid Family Leave- EE,WAPFLEE,WA Paid Family Leave- EE,TG,SDI,N,1305.64,5.27
+2023-05-26 00:00:00,001008855,WA Paid Family Leave- ER pd EE,WAPFLEP,WA Paid Family Leave- ER pd EE,TG,SDI,Y,1305.64,0
+2023-05-26 00:00:00,001008855,WA Paid Medical Leave- EE,WAPMLEE,WA Paid Medical Leave- EE,TG,SDI,N,1305.64,2.33
+2023-05-26 00:00:00,001008855,WA Paid Medical Leave- ER,WAPMLER,WA Paid Medical Leave- ER,TG,SDI,Y,1305.64,2.84
+2023-05-26 00:00:00,001008855,WA State Income Tax,WASIT,WA State Income Tax,TG,SIT,N,1305.64,0
+2023-05-26 00:00:00,001008855,WA Unemployment Employer,WASUIER,WA Unemployment Employer,TG,SUI,Y,1305.64,11.75
+2023-05-26 00:00:00,001008855,WA Vol Paid Fam Leave- EE,WAVPFLEE,WA Vol Paid Fam Leave- EE,TG,SDI,N,0,0
+2023-05-26 00:00:00,001008855,WA Vol Paid Fam Leave-ER pd EE,WAVPFLEP,WA Vol Paid Fam Leave-ER pd EE,TG,SDI,Y,0,0
+2023-05-26 00:00:00,001008855,WA Vol Paid Med Leave- EE,WAVPMLEE,WA Vol Paid Med Leave- EE,TG,SDI,N,0,0
+2023-05-26 00:00:00,001008855,WA Vol Paid Med Leave- ER,WAVPMLER,WA Vol Paid Med Leave- ER,TG,SDI,Y,0,0
+2023-05-26 00:00:00,001008855,WA Workforce Training Employer,WAWTFER,WA Workforce Training Employer,TG,SUI,Y,1305.64,0.39
+2023-05-26 00:00:00,001008855,Washington Cares Fund,WACRFEE,Washington Cares Fund,TG,SDI,N,0,0
