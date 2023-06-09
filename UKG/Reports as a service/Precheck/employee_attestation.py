@@ -26,7 +26,7 @@ df = helper_functions_employee_attestation.retrieve_report(report_file_path)
 df.to_csv('ukg_bulk_insert.csv', index=False)
 
 # Step 4: Insert the report into BiData2 as a table
-helper_functions_employee_attestation.create_sql_table_v2('[BIData2].[dbo].[ZZ_TEST_EmployeeAttestation]')
+helper_functions_employee_attestation.create_sql_table_v2('[BIData2].[dbo].[STG_EmployeeAttestation]')
 
 # Step 5: Close the API connection
 helper_functions_employee_attestation.close_api_connection()
