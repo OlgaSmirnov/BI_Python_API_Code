@@ -48,7 +48,7 @@ def authenticate():
 
     <UserName>001007445</UserName>
 
-    <Password>Ilovewestseattle!@#$32109</Password>
+    <Password>CpTpSd1W*5neo4#N</Password>
 
     <ClientAccessKey>PLAB4</ClientAccessKey>
 
