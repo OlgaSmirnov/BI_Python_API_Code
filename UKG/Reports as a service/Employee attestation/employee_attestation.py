@@ -11,7 +11,7 @@ import sqlalchemy
 import sys
 
 #Set the path variable, so python can find the module, helper_functions_employee_attestation
-sys.path.append(r"\\dc-bisql01\UKG\Reports as a service\Precheck")
+#sys.path.append(r"\\dc-bisql01\UKG\Reports as a service\Precheck")
 
 #Import our helper functions
 import helper_functions_employee_attestation
